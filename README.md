@@ -1,2 +1,1 @@
-# alx-zero_day
-My first repository as a full-stack engineer
+This is the README.md file in the root of the alx-zero_day repository
